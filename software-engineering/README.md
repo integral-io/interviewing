@@ -1,6 +1,6 @@
 # Software Engineering @ Integral
 
-Please implement the [following kata][interview kata] and follow the general requirements specified below.
+Please implement the [following kata][interview kata] and follow the guidelines specified below.
 
 # General Requirements
 
@@ -12,5 +12,9 @@ Please implement the [following kata][interview kata] and follow the general req
 # Code Submission
 
 Add the code to your own Github account and send us the link.
+
+# Important
+
+Implement the features focusing on **writing the best code** you can produce.
 
 [interview kata]: https://github.com/integral-io/katas/tree/master/social-networking
