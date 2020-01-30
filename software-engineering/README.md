@@ -1,7 +1,7 @@
 # Software Engineering @ Integral
 
 Integral's software engineering practices are strongly influenced by extreme programming (XP).
-Test-driven development (TDD) and pair programming are the most obvious examples working at Integral.
+Test-driven development (TDD) and pair programming are the most obvious examples of working at Integral.
 
 ## Interview Steps
 
@@ -13,9 +13,30 @@ Test-driven development (TDD) and pair programming are the most obvious examples
 
 ## Coding Exercise
 
+The coding exercise provides a medium for you and us to chat about and explore software engineering.
+Therefore, we aim to select an exercise that has enough "meat" for you and us to discuss, while respecting
+everyone's time and obligations beyond interviewing.
+
+### The Exercise
+
 Please implement the [following kata][interview kata] and follow the guidelines specified below.
 
-### General Requirements
+#### Time Limit Requirements
+
+Please spend **maxium** of two (2) hours on doing the kata.  As stated above, we want to respect candidate's
+time and obligations outside of the interview process.  Additionally, the subsequent step involves pairing
+with one of our engineers on your code submission for this step.
+
+To re-iterate, please spend maximum 2 hours on doing the kata.  And the evaluation of your code submission
+**does not depend on completing the kata**.
+
+#### Code Quality and Methodology
+
+Implement the features focusing on **writing the best code** you can produce.  To us, test-driven
+development is an indispensable tool for producing high quality code.  Therefore, we encourage you
+to incorporate TDD into your kata.
+
+### Technical Requirements
 
 - Language: Use any version of Java with build system (i.e. Maven or Gradle).
 - Dependencies: Use any dependencies necessary.
@@ -24,16 +45,5 @@ Please implement the [following kata][interview kata] and follow the guidelines 
 #### Code Submission
 
 Add the code to your own Github account and send us the link.
-
-#### Timebox
-
-Please spend **maxium** of two (2) hours on doing the kata.  The evaluation of your code submission
-**does not depend on completing the kata**.
-
-#### Code Quality and Methodology
-
-Implement the features focusing on **writing the best code** you can produce.  To us, test-driven
-development is an indispensable tool for producing high quality code.  Therefore, we encourage you
-to incorporate TDD into your kata.
 
 [interview kata]: https://github.com/integral-io/katas/tree/master/social-networking
