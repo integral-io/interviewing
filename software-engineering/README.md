@@ -49,7 +49,7 @@ To re-iterate, please spend maximum 2 hours on doing the kata.  The evaluation o
 Implement the features focusing on **writing the best code** you can produce.  To us, TDD is an indispensable
 tool for producing high quality code.  Therefore, we encourage you to incorporate TDD into your kata.
 
-### Technical Requirements
+#### Technical Requirements
 
 - Interfaces: User-facing interfaces (i.e. Web, Console, etc.) are not necessary.
 - Language: Use any version of Java with build system (i.e. Maven or Gradle).
