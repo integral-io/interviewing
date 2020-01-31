@@ -2,7 +2,7 @@
 
 This document aims to explain the steps you could experience during our interview process.
 
-We are not the biggest fan of the traditional interview process, largely because of the lack
+We are not the biggest fans of the traditional interview process, largely because of the lack
 of information parity between the candidate and the company.  Therefore, expect plenty of dialogue
 throughout the entire process. Hopefully both of us will have the information we need to
 know to make the right decision.
@@ -27,7 +27,7 @@ talking a lot about TDD and pairing during the our interview process.
 The coding exercise provides a medium for us to chat about software engineering. It also serves as
 the foundation for the next step in the process.
 
-Therefore, we aim to select an exercise that has enough "meat" for discuss, while respecting
+Therefore, we aim to select an exercise that has enough "meat" for discussions, while respecting
 everyone's time and obligations beyond interviewing.
 
 ### The Exercise
@@ -38,10 +38,10 @@ Please implement the [following kata][interview kata] and follow the guidelines 
 
 Please spend a **maxium** of two (2) hours on doing the kata.  As stated above, we want to respect your
 time and obligations outside of the interview process.  Additionally, the subsequent step involves pairing
-with one of our engineers on your code submission for the kata.  Keeping these two things in mind.  Please
+with one of our engineers on your code submission for the kata.  Keep these two things in mind.  Please
 do not feel the pressure to complete the kata.
 
-To re-iterate, please spend maximum 2 hours on doing the kata.  And the evaluation of your code submission
+To re-iterate, please spend maximum 2 hours on doing the kata.  The evaluation of your code submission
 **does not depend on completing the kata**.
 
 #### Code Quality and Methodology
