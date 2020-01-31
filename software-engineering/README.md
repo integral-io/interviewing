@@ -18,7 +18,7 @@ talking a lot about TDD and pairing during the our interview process.
 
 1. Connect with Integral. Either reach out to us at careers@integral.io, or we could reach out to you.
 1. Speak with our recruiter to learn about our company and for us to learn about yourself.
-1. Complete coding exercise (clarified below).
+1. Complete the coding exercise (clarified below).
 1. Remote pair program on your code submssion with one of our engineers.
 1. On-site pair with us on a production / production-like codebase.
 
