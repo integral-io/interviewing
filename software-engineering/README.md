@@ -36,7 +36,7 @@ Please implement the [following kata][interview kata] and follow the guidelines 
 
 #### Time Limit Requirements
 
-Please spend a **maxium** of two (2) hours on doing the kata.  As stated above, we want to respect your
+Please spend a **maximum** of two (2) hours on doing the kata.  As stated above, we want to respect your
 time and obligations outside of the interview process.  Additionally, the subsequent step involves pairing
 with one of our engineers on your code submission for the kata.  Keep these two things in mind.  Please
 do not feel the pressure to complete the kata.
