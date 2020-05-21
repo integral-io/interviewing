@@ -3,7 +3,7 @@
 This document aims to explain the steps you could experience during our interview process.
 
 We are not the biggest fans of the traditional interview process, largely because of the lack
-of information parity between the candidate and the company.  Therefore, expect plenty of dialogue
+of information parity between the candidate and the company. Therefore, expect plenty of dialogue
 throughout the entire process. Hopefully both of us will have the information we need to
 know to make the right decision.
 
@@ -11,7 +11,7 @@ know to make the right decision.
 
 Integral's software engineering practices are strongly influenced by extreme programming (XP).
 Test-driven development (TDD) and pair programming are the most obvious examples that you would experience
-from working at Integral.  Therefore, it should not come as a surprise that we would be
+from working at Integral. Therefore, it should not come as a surprise that we would be
 talking a lot about TDD and pairing during the our interview process.
 
 ## Interview Steps
@@ -36,18 +36,18 @@ Please implement the [following kata][interview kata] and follow the guidelines 
 
 #### Time Limit Requirements
 
-Please spend a **maximum** of two (2) hours on doing the kata.  As stated above, we want to respect your
-time and obligations outside of the interview process.  Additionally, the subsequent step involves pairing
-with one of our engineers on your code submission for the kata.  Keep these two things in mind.  Please
+Please spend a **maximum** of two (2) hours on doing the kata. As stated above, we want to respect your
+time and obligations outside of the interview process. Additionally, the subsequent step involves pairing
+with one of our engineers on your code submission for the kata. Keep these two things in mind. Please
 do not feel the pressure to complete the kata.
 
-To re-iterate, please spend maximum 2 hours on doing the kata.  The evaluation of your code submission
+To re-iterate, please spend maximum 2 hours on doing the kata. The evaluation of your code submission
 **does not depend on completing the kata**.
 
 #### Code Quality and Methodology
 
-Implement the features focusing on **writing the best code** you can produce.  To us, TDD is an indispensable
-tool for producing high quality code.  Therefore, we encourage you to incorporate TDD into your kata.
+Implement the features focusing on **writing the best code** you can produce. To us, TDD is an indispensable
+tool for producing high quality code. Therefore, we encourage you to incorporate TDD into your kata.
 
 #### Technical Requirements
 
@@ -65,6 +65,7 @@ Once your code has been submitted, we would have an opportunity to discuss and r
 on the kata starting with the code you have submitted.
 
 Expect the discussion to be conversational, covering topics such as:
+
 - Your thoughts on the exercise
   - What you liked about the exercise
   - What frustrated or confused you about the exercise
