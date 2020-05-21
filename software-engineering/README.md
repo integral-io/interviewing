@@ -25,9 +25,7 @@ assessing elements of these practices throughout the interview process.
 
 Since XP's introduction, several of the practices noted above have acquired
 divergent definitons. Without going into the merit of or reasons for the other
-definitions, here is our definitions for these practices. Here are a few
-thoughts around aligning our expectations regarding the technical practices
-mentioned above.
+definitions, here is our definitions for these practices.
 
 #### Test-Driven Development
 
