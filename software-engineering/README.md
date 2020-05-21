@@ -8,6 +8,23 @@ because of the lack of information parity between the candidate and the company.
 Therefore, expect plenty of dialogue throughout the entire process. Hopefully
 both of us will have the information we need to know to make the right decision.
 
+## Table of Contents
+
+- [Software Engineering @ Integral](#software-engineering--integral)
+  - [Software Engineering Practices, Summarized](#software-engineering-practices-summarized)
+    - [Practice Definition](#practice-definition)
+      - [Test-Driven Development](#test-driven-development)
+      - [Simple Design](#simple-design)
+  - [Interview Steps](#interview-steps)
+  - [Coding Exercise](#coding-exercise)
+    - [The Exercise](#the-exercise)
+      - [Time Limit Requirements](#time-limit-requirements)
+      - [Success Criteria Hints](#success-criteria-hints)
+      - [Technical Requirements](#technical-requirements)
+      - [Code Submission](#code-submission)
+  - [Remote Pairing Exercise](#remote-pairing-exercise)
+  - [Project Pairing](#project-pairing)
+
 ## Software Engineering Practices, Summarized
 
 We expect Integral software engineers to practice incremental development
