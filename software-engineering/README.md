@@ -83,8 +83,11 @@ while respecting everyone's time and obligations beyond interviewing.
 Please implement the [following kata][interview kata] and follow the guidelines
 specified below.
 
+Here's a [starter project][kata starter] that may help kickstart the exercise.
+
 [interview kata]:
   https://github.com/integral-io/katas/tree/master/social-networking
+[kata starter]: https://github.com/integral-io/katas/tree/master/starter/java
 
 #### Time Limit Requirements
 
