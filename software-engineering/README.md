@@ -121,8 +121,6 @@ your code submission **does not depend on completing the kata**.
 
 #### Technical Requirements
 
-- Interfaces: User-facing interfaces (i.e. Web, Console, etc.) are not
-  necessary.
 - Language: Use any version of Java with a build system (i.e. Maven or Gradle).
 - Dependencies: Use any dependencies necessary.
 
@@ -139,6 +137,10 @@ To re-iterate the practices:
 - Follow TDD in building the features. Do not forget the refactoring step.
 - Follow simple design. Be prepared to justify code that is seemingly complex.
   The justification just may be a learning opportunity for the interviewer!
+
+Note: User-facing interfaces (i.e. Web, Console, etc.) are **not** necessary. If
+you choose to include user-facing interfaces, please follow the TDD and simple
+design practices as stated above.
 
 ### Submission
 
