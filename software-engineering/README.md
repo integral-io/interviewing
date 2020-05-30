@@ -100,11 +100,11 @@ while respecting everyone's time and obligations beyond interviewing.
 Please implement the [following kata][interview kata] and follow the guidelines
 specified below.
 
-Here's a [starter project][kata starter] that may help kickstart the exercise.
+Here's [starter projects][kata starter] that may help kickstart the exercise.
 
 [interview kata]:
   https://github.com/integral-io/katas/tree/master/social-networking
-[kata starter]: https://github.com/integral-io/katas/tree/master/starter/java
+[kata starter]: https://github.com/integral-io/katas/tree/master/starter/
 
 ### Requirements
 
@@ -121,8 +121,9 @@ your code submission **does not depend on completing the kata**.
 
 #### Technical Requirements
 
-- Language: Use any version of Java with a build system (i.e. Maven or Gradle).
-- Dependencies: Use any dependencies necessary.
+- Language: Java/Javascript
+- Dependencies: Dependency management framework and automated test framework
+  required. No other restrictions on dependencies.
 
 ### Success Criteria Hints
 
