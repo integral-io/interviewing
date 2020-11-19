@@ -124,6 +124,8 @@ your code submission **does not depend on completing the kata**.
 - Language: Java/Javascript
 - Dependencies: Dependency management framework and automated test framework
   required. No other restrictions on dependencies.
+- Please provide a `README.md` at the top level directory of your submission that 
+  describes how to build your project AND a generic description of your code.
 
 ### Success Criteria Hints
 
@@ -138,7 +140,7 @@ To re-iterate the practices:
 - Follow TDD in building the features. Do not forget the refactoring step.
 - Follow simple design. Be prepared to justify code that is seemingly complex.
   The justification just may be a learning opportunity for the interviewer!
-
+  
 Note: User-facing interfaces (i.e. Web, Console, etc.) are **not** necessary. If
 you choose to include user-facing interfaces, please follow the TDD and simple
 design practices as stated above.
