@@ -125,7 +125,7 @@ your code submission **does not depend on completing the kata**.
 - Dependencies: Dependency management framework and automated test framework
   required. No other restrictions on dependencies.
 - Please provide a `README.md` at the top level directory of your submission that 
-  describes how to build your project AND a generic description of your code.
+  describes **how to build your project** AND **a generic description of your code**.
 
 ### Success Criteria Hints
 
