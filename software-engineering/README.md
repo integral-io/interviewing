@@ -133,17 +133,24 @@ Ultimately, we would like you to implement the features focusing on **writing
 the best code** you can produce.
 
 Submissions that illustrate the technical practices defined above, however,
-would increase the probably of you moving forward in the interview process.
+would increase the probability of you moving forward in the interview process.
 
 To re-iterate the practices:
 
 - Follow TDD in building the features. Do not forget the refactoring step.
 - Follow simple design. Be prepared to justify code that is seemingly complex.
   The justification just may be a learning opportunity for the interviewer!
-  
-Note: User-facing interfaces (i.e. Web, Console, etc.) are **not** necessary. If
-you choose to include user-facing interfaces, please follow the TDD and simple
-design practices as stated above.
+
+
+Note: It is **not** necessary to include a user interface (e.g. web, console)
+or a database.  What we are really looking at is how you write clean code to 
+implement and test the core logic of the kata.  We've seen a lot more 
+submissions where implementing a DB or UI seemed to distract the author and 
+make the submission harder for us to review, than we have seen submissions 
+where it helped.
+
+That said, you do you.  If you choose to include user-facing interfaces, 
+please follow the TDD and simple design practices as stated above.
 
 ### Submission
 
