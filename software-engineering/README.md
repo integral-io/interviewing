@@ -23,7 +23,6 @@ both of us will have the information we need to know to make the right decision.
     - [Success Criteria Hints](#success-criteria-hints)
     - [Submission](#submission)
   - [Remote Pairing Exercise](#remote-pairing-exercise)
-  - [Project Pairing](#project-pairing)
 
 # Software Engineering Practices, Summarized
 
@@ -84,8 +83,7 @@ no simpler).
 1. Speak with our recruiter to learn about our company and for us to learn about
    yourself.
 1. Complete the coding exercise (clarified below).
-1. Remote pair program on your code submssion with one of our engineers.
-1. <s>On-site</s> Pair with us on a production/production-like codebase.
+1. Remote pair program on your code submission with our engineers.
 
 ## Coding Exercise
 
@@ -100,7 +98,7 @@ while respecting everyone's time and obligations beyond interviewing.
 Please implement the [following kata][interview kata] and follow the guidelines
 specified below.
 
-Here's [starter projects][kata starter] that may help kickstart the exercise.
+Here's a [starter project][kata starter] that may help kickstart the exercise.
 
 [interview kata]:
   https://github.com/integral-io/katas/tree/master/social-networking
@@ -110,9 +108,9 @@ Here's [starter projects][kata starter] that may help kickstart the exercise.
 
 #### Two Hour Time Limit
 
-Please spend a **maximum** of two (2) hours on doing the kata. As stated above,
-we want to respect your time and obligations outside of the interview process.
-Additionally, the subsequent step involves pairing with one of our engineers on
+Please spend a **maximum** of two (2) hours on doing the kata.
+We want to respect your time and obligations outside of the interview process.
+Additionally, the subsequent step involves pairing with our engineers on
 your code submission for the kata. Keep these two things in mind. Please do not
 feel the pressure to complete the kata.
 
@@ -121,8 +119,8 @@ your code submission **does not depend on completing the kata**.
 
 #### Technical Requirements
 
-- Language: Java/Javascript
-- Dependencies: Dependency management framework and automated test framework
+- Language: Java/C#/Javascript/Typescipt
+- Dependencies: Dependency management framework and testing framework
   required. No other restrictions on dependencies.
 - Please provide a `README.md` at the top level directory of your submission that 
   describes **how to build your project** AND **a generic description of your code**.
@@ -173,13 +171,3 @@ Expect the discussion to be conversational, covering topics such as:
 
 These are not meant to be exhaustive nor is it guaranteed that we would talk
 about all of them.
-
-## Project Pairing
-
-<s>Come into our office.</s> Meet the team. Experience the environment. Pair
-with our engineers!
-
-Usually, we invite candidates into our office because we believe the candidates
-should experience the day-to-day of working on a project at Integral. However,
-given the current situation with the pandemic, these pairing sessions will be
-conducted over video call until further notice.
